@@ -1,0 +1,18 @@
+/* * {
+    border: 1px dashed white;
+    background: rgba(0, 0, 0, 0.2);
+} */
+
+:root {
+    --first-color: #fecc00;
+}
+
+.bg-allocine {
+    background-color: var(--first-color);
+}
+
+.btn-allocine {
+    color: #000;
+    background-color: #fecc00;
+    border-color: #fecc00;
+}
